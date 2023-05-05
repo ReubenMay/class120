@@ -34,4 +34,6 @@
     width: 100%;
     line-height: 3;
   }
-  
+  .result_para_tag span{
+    white-space: preline;
+  }
